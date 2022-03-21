@@ -1,0 +1,15 @@
+{
+  "short_name": "Exp9",
+  "name": "Exp9",
+  "icons": [
+    {
+      "src": "icon-192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://clickopick.com/nine_unicorns/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
